@@ -77,7 +77,7 @@
 
 ### 완성된 1차 모형
 
-![image](https://lh5.googleusercontent.com/LbPPNKRzy_HxilChnFJByeGhEDwpc1a5rrzOMlIyCr1LjtyqaPkGz60fhnWvhtEZZH62egh6Rxn3f3jbyDJg0Xhmy8q-Z_IKRDqd7vgP)
+![image](https://lh6.googleusercontent.com/BRlY2WTHYmq26ueg7SBqXmerav21U07GRQHDsQRcd-bIsGA5XgiQzg-syvo3Y4gOnXru9fmqp7-39P4eI9M6yGP0eqseis51yKtV71pn)
 
     - View Model 추가
 
