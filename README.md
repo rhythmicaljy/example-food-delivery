@@ -60,12 +60,12 @@
 
 ### 바운디드 컨텍스트로 묶기
 
-![image](https://lh6.googleusercontent.com/XSH_NgT-PDfRyoRJPyuFyK1Fm3iTMGDPzPH66ZVB1HMg9lUJNdu_vULTm8jyTI-HTxkaX6pd0mB9r5SR2WG_2dvtIlBTOmHK2kbuUlXK)
+![image](https://lh4.googleusercontent.com/mdhDAbksJHfvw0JsaBnzfWfYh4aSFwsryB8pETCzSON8k7Gl-BvPClTkirGVxZ6JPDXFGdqiV7cnvkcxVMjfxBXqsZ7klwNOyMR6KhKM)
 
     - 도메인 서열 분리 
-        - Core Domain:  app(front), store : 없어서는 안될 핵심 서비스이며, 연견 Up-time SLA 수준을 99.999% 목표, 배포주기는 app 의 경우 1주일 1회 미만, store 의 경우 1개월 1회 미만
-        - Supporting Domain:   marketing, customer : 경쟁력을 내기위한 서비스이며, SLA 수준은 연간 60% 이상 uptime 목표, 배포주기는 각 팀의 자율이나 표준 스프린트 주기가 1주일 이므로 1주일 1회 이상을 기준으로 함.
-        - General Domain:   pay : 결제서비스로 3rd Party 외부 서비스를 사용하는 것이 경쟁력이 높음 (핑크색으로 이후 전환할 예정)
+        - Core Domain:  areservation , rental 은 핵심 코어 서비스로 연간 Up-time SLA 수준을 99.999% 목표, 배포주기는 reservation 의 경우 1주일 1회 미만, rental 의 경우 1개월 1회 미만
+        - Supporting Domain:  management 은 차량 관리 관련 경쟁력을 내기위한 서비스이며, SLA 수준은 연간 60% 이상 uptime 목표, 배포주기는 각 팀의 자율이나 표준 스프린트 주기가 1주일 이므로 1주일 1회 이상을 기준으로 함..
+        - General Domain:   payment 결제서비스로 3rd Party 외부 서비스를 사용하는 것이 경쟁력이 높음 (핑크색으로 이후 전환할 예정)
 
 ### 폴리시 부착 (괄호는 수행주체, 폴리시 부착을 둘째단계에서 해놔도 상관 없음. 전체 연계가 초기에 드러남)
 
