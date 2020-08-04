@@ -77,7 +77,7 @@
 
 ### 완성된 1차 모형
 
-![image](https://lh5.googleusercontent.com/CBzc4ef_rwLrVq6F-erY5wko0FfVjNIN9FAtplMr94a8Rq3-Nb1gvxvP0Eh-qC6kRHkthiNANtBkRK7UDiFCLUub_ALAShWEtn74NQnPHpWvnnR5HSUCJf5VfN6__3KewdN9Oc5i)
+![image](https://lh5.googleusercontent.com/LbPPNKRzy_HxilChnFJByeGhEDwpc1a5rrzOMlIyCr1LjtyqaPkGz60fhnWvhtEZZH62egh6Rxn3f3jbyDJg0Xhmy8q-Z_IKRDqd7vgP)
 
     - View Model 추가
 
@@ -99,7 +99,7 @@
 
 ### 모델 수정
 
-![image](https://user-images.githubusercontent.com/487999/79684176-4e4c7800-826a-11ea-8deb-b7b053e5d7c6.png)
+![image](https://lh5.googleusercontent.com/LbPPNKRzy_HxilChnFJByeGhEDwpc1a5rrzOMlIyCr1LjtyqaPkGz60fhnWvhtEZZH62egh6Rxn3f3jbyDJg0Xhmy8q-Z_IKRDqd7vgP)
     
     - 수정된 모델은 모든 요구사항을 커버함.
 
