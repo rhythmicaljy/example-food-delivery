@@ -53,14 +53,10 @@
 ### 이벤트 도출
 ![image](https://lh4.googleusercontent.com/tKoqblyQq9-QlG0OBciZ4BXh59p59lMsx-Jbs907Xr9J_tpr4bvcTHxinFFf6TpPWG2utG85tsxDWAkOmxCxG9-rwc6D4UhhvuA0Jck1N5Nv71fRPoWMD4dpHLClkmy6lHPc1oeb)
 
-
-### 액터, 커맨드 부착하여 읽기 좋게
+### 어그리게잇으로 묶기
 ![image](https://lh6.googleusercontent.com/8ZV500Uxo0pRZxt7VY0xZr0shoECh6_5tFelREC_9X4ypLL4T2GpIdlItgXr3XHciv1lehkyCYHKUTZfMzH8vQv4p3IPUnzkRHiEpjds806-CvBXq_h1tQUJQpR8HsjybRHLHNAa)
 
-### 어그리게잇으로 묶기
-![image](https://lh5.googleusercontent.com/qr4GZQh9Cf98S-3PEstsGSUgTGw7k2MgGde9NbnORnuTZgTP2rqGxNT3_dw-FFsn2zIXkpTl8KUS39shIKvdYVJRq126ri9xCosU7sNu)
-
-    - app의 Order, store 의 주문처리, 결제의 결제이력은 그와 연결된 command 와 event 들에 의하여 트랜잭션이 유지되어야 하는 단위로 그들 끼리 묶어줌
+    - 차량 예약, 결제, 차량 렌탈, 차량관리 등은 그와 연결된 command 와 event 들에 의하여 트랜잭션이 유지되어야 하는 단위로 그들 끼리 묶어줌
 
 ### 바운디드 컨텍스트로 묶기
 
