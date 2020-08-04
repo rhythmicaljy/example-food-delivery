@@ -55,7 +55,7 @@
 
 
 ### 액터, 커맨드 부착하여 읽기 좋게
-![image](https://lh6.googleusercontent.com/wnpGQAlcqG2_c57jJbNXaCM56eivyoJ5pQ0-LqXvUX1yICFi7C7XrtzopqWmrYZSBlcy7G8MFfOppuJeZOg7wNbwdcLbh4KfnNjXTQ_K20xd142l1ePNesUeHZDMPLGZIe1HFsw4)
+![image](https://lh5.googleusercontent.com/ydDuvXunAB7s7wzDhifPl5iC5TxzDJZjY3PSgTWkSTMMBp5vUB2AR-dfKokoWtCn3hc3zgEfNFdJmf3qd8HBWjvY5FbRKjHl0gIvULmh)
 
 ### 어그리게잇으로 묶기
 ![image](https://user-images.githubusercontent.com/487999/79683618-52769680-8266-11ea-9c21-48d6812444ba.png)
