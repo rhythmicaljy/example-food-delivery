@@ -2,7 +2,7 @@
 
 # Table of contents
 
-- [예제 - 렌트카 서비스](#---)
+- [과제 - 렌트카 서비스](#---)
   - [서비스 시나리오](#서비스-시나리오)
   - [분석/설계](#분석설계)
   - [구현:](#구현-)
@@ -77,7 +77,7 @@
 
 ### 완성된 1차 모형
 
-![image](https://user-images.githubusercontent.com/487999/79683646-63bfa300-8266-11ea-9bc5-c0b650507ac8.png)
+![image](https://lh6.googleusercontent.com/hwMZUyBo9C8-OXugKS9Wp-jcApq4ZPkuT9q3wTz1IiZArucp99hHfiNWqH0NBlDDnZ_gwfoXODUN6nOlEbCOdTpYrngUGm-dtVTToqKU)
 
     - View Model 추가
 
