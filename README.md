@@ -53,14 +53,9 @@
 ### 이벤트 도출
 ![image](https://lh4.googleusercontent.com/tKoqblyQq9-QlG0OBciZ4BXh59p59lMsx-Jbs907Xr9J_tpr4bvcTHxinFFf6TpPWG2utG85tsxDWAkOmxCxG9-rwc6D4UhhvuA0Jck1N5Nv71fRPoWMD4dpHLClkmy6lHPc1oeb)
 
-### 부적격 이벤트 탈락
-![image](https://user-images.githubusercontent.com/487999/79683612-4b4f8880-8266-11ea-9519-7e084524a462.png)
-
-    - 과정중 도출된 잘못된 도메인 이벤트들을 걸러내는 작업을 수행함
-        - 주문시>메뉴카테고리선택됨, 주문시>메뉴검색됨 :  UI 의 이벤트이지, 업무적인 의미의 이벤트가 아니라서 제외
 
 ### 액터, 커맨드 부착하여 읽기 좋게
-![image](https://user-images.githubusercontent.com/487999/79683614-4ee30f80-8266-11ea-9a50-68cdff2dcc46.png)
+![image](https://lh6.googleusercontent.com/wnpGQAlcqG2_c57jJbNXaCM56eivyoJ5pQ0-LqXvUX1yICFi7C7XrtzopqWmrYZSBlcy7G8MFfOppuJeZOg7wNbwdcLbh4KfnNjXTQ_K20xd142l1ePNesUeHZDMPLGZIe1HFsw4)
 
 ### 어그리게잇으로 묶기
 ![image](https://user-images.githubusercontent.com/487999/79683618-52769680-8266-11ea-9c21-48d6812444ba.png)
