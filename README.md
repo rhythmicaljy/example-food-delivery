@@ -55,16 +55,16 @@
 
 
 ### 액터, 커맨드 부착하여 읽기 좋게
-![image](https://lh5.googleusercontent.com/ydDuvXunAB7s7wzDhifPl5iC5TxzDJZjY3PSgTWkSTMMBp5vUB2AR-dfKokoWtCn3hc3zgEfNFdJmf3qd8HBWjvY5FbRKjHl0gIvULmh)
+![image](https://lh6.googleusercontent.com/8ZV500Uxo0pRZxt7VY0xZr0shoECh6_5tFelREC_9X4ypLL4T2GpIdlItgXr3XHciv1lehkyCYHKUTZfMzH8vQv4p3IPUnzkRHiEpjds806-CvBXq_h1tQUJQpR8HsjybRHLHNAa)
 
 ### 어그리게잇으로 묶기
-![image](https://user-images.githubusercontent.com/487999/79683618-52769680-8266-11ea-9c21-48d6812444ba.png)
+![image](https://lh5.googleusercontent.com/qr4GZQh9Cf98S-3PEstsGSUgTGw7k2MgGde9NbnORnuTZgTP2rqGxNT3_dw-FFsn2zIXkpTl8KUS39shIKvdYVJRq126ri9xCosU7sNu)
 
     - app의 Order, store 의 주문처리, 결제의 결제이력은 그와 연결된 command 와 event 들에 의하여 트랜잭션이 유지되어야 하는 단위로 그들 끼리 묶어줌
 
 ### 바운디드 컨텍스트로 묶기
 
-![image](https://user-images.githubusercontent.com/487999/79683625-560a1d80-8266-11ea-9790-40d68a36d95d.png)
+![image](https://lh6.googleusercontent.com/XSH_NgT-PDfRyoRJPyuFyK1Fm3iTMGDPzPH66ZVB1HMg9lUJNdu_vULTm8jyTI-HTxkaX6pd0mB9r5SR2WG_2dvtIlBTOmHK2kbuUlXK)
 
     - 도메인 서열 분리 
         - Core Domain:  app(front), store : 없어서는 안될 핵심 서비스이며, 연견 Up-time SLA 수준을 99.999% 목표, 배포주기는 app 의 경우 1주일 1회 미만, store 의 경우 1개월 1회 미만
